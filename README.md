@@ -1,5 +1,5 @@
  <div h2 align ="center">
-안녕하세요 김정아입니다 ! 
+Hello I'm Hailey ✋🏻
  </div>
 
 <!--
